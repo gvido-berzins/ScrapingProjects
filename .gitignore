@@ -1,0 +1,8 @@
+venv
+.env
+.env.dev
+.env.test
+.secrets.yaml
+
+**/__pycache__
+ScrapyProjects/*.json
