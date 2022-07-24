@@ -1,0 +1,9 @@
+[tool.pyright]
+stubPath = "typings"
+
+reportMissingImports = true
+reportMissingTypeStubs = true
+
+pythonVersion = "3.10"
+pythonPlatform = "Linux"
+
