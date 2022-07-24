@@ -1,0 +1,6 @@
+venv
+.env
+.env.dev
+.env.test
+.secrets.yaml
+
