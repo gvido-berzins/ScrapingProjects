@@ -1,0 +1,6 @@
+peewee
+pymysql
+environs
+pydantic
+requests
+types-requests

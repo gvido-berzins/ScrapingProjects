@@ -1,0 +1,11 @@
+[tool.pyright]
+stubPath = "stubs"
+
+reportMissingImports = true
+reportMissingTypeStubs = true
+
+pythonVersion = "3.10"
+pythonPlatform = "Linux"
+
+[tool.mypy]
+mypy_path = "stubs"
