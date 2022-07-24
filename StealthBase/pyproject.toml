@@ -8,4 +8,6 @@ pythonVersion = "3.10"
 pythonPlatform = "Linux"
 
 [tool.mypy]
-mypy_path = "stubs"
+warn_unused_configs = true
+ignore_missing_imports = true
+warn_incomplete_stub = false
