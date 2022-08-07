@@ -6,4 +6,3 @@ reportMissingTypeStubs = true
 
 pythonVersion = "3.10"
 pythonPlatform = "Linux"
-
